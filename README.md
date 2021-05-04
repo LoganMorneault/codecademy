@@ -5,5 +5,6 @@ Hello! This repository holds code from the various projects available from CodeC
 As of 4/30, I have completed these courses from CodeCademy:
  - Welcome to CodeCademy
  - Learn Python 2
+ - Learn SQL
 
 I believe CodeCademy's paid courses have projects that are more involved, but as of 4/29/2021 I'm using only the freely available portions of each lesson plan.
